@@ -122,6 +122,26 @@ We welcome contributions! To contribute:
 
 For major changes, please open an issue first to discuss your ideas.
 
+
+## 📷 Screen Shots
+
+
+![Dashboard ](https://github.com/PATELMIHIR2715/Tournament-AdminPanel/blob/3b7ac89bbe3a911dadee170c24e80bbc360d304b/Screenshot/Screenshot%20(5).png)
+![Dashboard ](https://github.com/PATELMIHIR2715/Tournament-AdminPanel/blob/3b7ac89bbe3a911dadee170c24e80bbc360d304b/Screenshot/Screenshot%20(6).png)
+![Dashboard ](https://github.com/PATELMIHIR2715/Tournament-AdminPanel/blob/3b7ac89bbe3a911dadee170c24e80bbc360d304b/Screenshot/Screenshot%20(7).png)
+![Dashboard ](https://github.com/PATELMIHIR2715/Tournament-AdminPanel/blob/3b7ac89bbe3a911dadee170c24e80bbc360d304b/Screenshot/Screenshot%20(8).png)
+![Dashboard ](https://github.com/PATELMIHIR2715/Tournament-AdminPanel/blob/3b7ac89bbe3a911dadee170c24e80bbc360d304b/Screenshot/Screenshot%20(9).png)
+![Dashboard ](https://github.com/PATELMIHIR2715/Tournament-AdminPanel/blob/3b7ac89bbe3a911dadee170c24e80bbc360d304b/Screenshot/Screenshot%20(10).png)
+![Dashboard ](https://github.com/PATELMIHIR2715/Tournament-AdminPanel/blob/3b7ac89bbe3a911dadee170c24e80bbc360d304b/Screenshot/Screenshot%20(11).png)
+![Dashboard ](https://github.com/PATELMIHIR2715/Tournament-AdminPanel/blob/3b7ac89bbe3a911dadee170c24e80bbc360d304b/Screenshot/Screenshot%20(28).png)
+![Dashboard ](https://github.com/PATELMIHIR2715/Tournament-AdminPanel/blob/3b7ac89bbe3a911dadee170c24e80bbc360d304b/Screenshot/Screenshot%20(29).png)
+![Dashboard ](https://github.com/PATELMIHIR2715/Tournament-AdminPanel/blob/3b7ac89bbe3a911dadee170c24e80bbc360d304b/Screenshot/Screenshot%20(30).png)
+![Dashboard ](https://github.com/PATELMIHIR2715/Tournament-AdminPanel/blob/3b7ac89bbe3a911dadee170c24e80bbc360d304b/Screenshot/Screenshot%20(31).png)
+![Dashboard ](https://github.com/PATELMIHIR2715/Tournament-AdminPanel/blob/3b7ac89bbe3a911dadee170c24e80bbc360d304b/Screenshot/Screenshot%20(32).png)
+![Dashboard ](https://github.com/PATELMIHIR2715/Tournament-AdminPanel/blob/3b7ac89bbe3a911dadee170c24e80bbc360d304b/Screenshot/Screenshot%20(33).png)
+![Dashboard ](https://github.com/PATELMIHIR2715/Tournament-AdminPanel/blob/3b7ac89bbe3a911dadee170c24e80bbc360d304b/Screenshot/Screenshot%20(34).png)
+![Dashboard ](https://github.com/PATELMIHIR2715/Tournament-AdminPanel/blob/3b7ac89bbe3a911dadee170c24e80bbc360d304b/Screenshot/Screenshot%20(35).png)
+
 ## 📞 Contact
 
 **Developer:** Mihir Patel  
